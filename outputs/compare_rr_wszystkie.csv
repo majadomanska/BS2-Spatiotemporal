@@ -1,0 +1,2 @@
+comparison,biosensor_A,biosensor_B,statistic,p_raw,mean_RR_ERKKTR,mean_RR_FoxO,std_RR_ERKKTR,std_RR_FoxO,n_ERKKTR,n_FoxO,significant
+All mutations: ERKKTR_ratio vs FoxO3A_ratio,ERKKTR_ratio,FoxO3A_ratio,10899.0,6.093991944781043e-12,1.9569448039576622,1.6300779370742926,0.7079465993179624,0.5848603634085854,120,120,True
