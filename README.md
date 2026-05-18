@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project analyzes spatiotemporal signal propagation in single-cell imaging data using biosensors associated with the ERK/MAPK and PI3K/AKT pathways. The analyses investigate how signaling activity propagates between neighboring cells, how propagation dynamics differ across mutations, and how sensitive Relative Risk (RR)-based measurements are to analysis parameters.
+This project analyzes spatiotemporal signal propagation in single-cell imaging data using biosensors associated with the ERK/MAPK and PI3K/AKT pathways. The analyses investigate how signaling activity propagates between neighboring cells, how propagation dynamics differ across mutations and how sensitive Relative Risk (RR)-based measurements are to analysis parameters.
 
 The project includes multi-mutation comparisons of spatiotemporal propagation strength, lagged exposure analyses across different mutations, parameter robustness assessment and comparative analyses of ERK and AKT/FoxO signaling dynamics.
 
@@ -24,8 +24,8 @@ Jupyter Notebook
 ## Clone Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/majadomanska/BS2-Spatiotemporal.git
+cd BS2-Spatiotemporal
 ```
 
 ---
@@ -94,3 +94,4 @@ notebooks/TaskB_IndependentResearch.ipynb
 ---
 
 ## Outputs
+
