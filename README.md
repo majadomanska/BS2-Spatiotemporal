@@ -107,13 +107,13 @@ From agged Exposure Analysis Across Mutations:
 - `lagged_exposure_full_RR_by_tau.csv` - complete $RR(\tau)$ results for all tested temporal lags and mutations
 
 From Parameter Robustness Assessment:
-- `parameter_robustness_window_sweep.csv` - table containing RR values and propagation statistics across tested future window parameters  
-- `parameter_robustness_window_sweep.png` - ine plot showing Relative Risk as a function of future window size
+- `parameter_robustness_window_sweep.csv` - table containing $RR$ values and propagation statistics across tested future window parameters  
+- `parameter_robustness_window_sweep.png` - plot showing Relative Risk as a function of future window size
 
 From  ERK vs. AKT Propagation Comparison:
 - `B1_add_ERK_vs_AKT_comparison_table.csv`
 - `B1_concat_ERK_vs_AKT_comparison_table.csv`
-- `B1_ERK_vs_FoxO3A_RR_barplot.png` - bar plot of mean RR values for ERKKTR_ratio and FoxO3A_ratio
+- `B1_ERK_vs_FoxO3A_RR_barplot.png` - bar plot of mean $RR$ values for ERKKTR_ratio and FoxO3A_ratio
 - `B1_ERK_vs_FoxO3A_theta_barplot.png` - bar plot of mean activation thresholds $(\theta)$ for ERKKTR_ratio and FoxO3A_ratio
 - `compare_rr_wszystkie.csv`
 - `compare_rr_wzg_mutacji.csv`
