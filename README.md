@@ -98,8 +98,8 @@ notebooks/TaskB_IndependentResearch.ipynb
 From Multi-Mutation Spatiotemporal Comparison:
 - `mutations_barplot.png`
 - `mutations_comparison_table.csv`
--`/comparison_mutation_ERKKTR_ratio/group_level_summary.csv`
--`/comparison_mutation_ERKKTR_ratio/block_level_summary.csv`
+- `/comparison_mutation_ERKKTR_ratio/group_level_summary.csv`
+- `/comparison_mutation_ERKKTR_ratio/block_level_summary.csv`
 
 From agged Exposure Analysis Across Mutations:
 - `lagged_exposure_plot.png` - line plot showing $RR(\tau)$ across temporal lags for WT and mutant cell lines  
