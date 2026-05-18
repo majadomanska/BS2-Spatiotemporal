@@ -96,29 +96,29 @@ notebooks/TaskB_IndependentResearch.ipynb
 ## Outputs
 
 From Multi-Mutation Spatiotemporal Comparison:
-- mutations_barplot.png
-- mutations_comparison_table.csv
--/comparison_mutation_ERKKTR_ratio/group_level_summary.csv
-- /comparison_mutation_ERKKTR_ratio/block_level_summary.csv
+- `mutations_barplot.png`
+- `mutations_comparison_table.csv`
+-`/comparison_mutation_ERKKTR_ratio/group_level_summary.csv`
+- `/comparison_mutation_ERKKTR_ratio/block_level_summary.csv`
 
 From agged Exposure Analysis Across Mutations:
 - `lagged_exposure_plot.png` - line plot showing $RR(\tau)$ across temporal lags for WT and mutant cell lines  
-- `lagged_exposure_table.csv`
-- `lagged_exposure_full_RR_by_tau.csv`
+- `lagged_exposure_table.csv` - summary table containing optimal lag $(\tau)$ * and maximum RR for each mutation
+- `lagged_exposure_full_RR_by_tau.csv` - complete $RR(\tau)$ results for all tested temporal lags and mutations
 
 From Parameter Robustness Assessment:
-- parameter_robustness_window_sweep.csv
-- parameter_robustness_window_sweep.png
+- `parameter_robustness_window_sweep.csv`
+- `parameter_robustness_window_sweep.png`
 
 From  ERK vs. AKT Propagation Comparison:
-- B1_add_ERK_vs_AKT_comparison_table.csv
-- B1_concat_ERK_vs_AKT_comparison_table.csv
-- B1_ERK_vs_FoxO3A_RR_barplot.png
-- B1_ERK_vs_FoxO3A_theta_barplot.png
-- compare_rr_wszystkie.csv
-- compare_rr_wzg_mutacji.csv
-- /notebooks/B1_lag_analysis_profiles_official.csv
-- /notebooks/B1_lag_analysis_summary_official.csv
+- `B1_add_ERK_vs_AKT_comparison_table.csv`
+- `B1_concat_ERK_vs_AKT_comparison_table.csv`
+- `B1_ERK_vs_FoxO3A_RR_barplot.png`
+- `B1_ERK_vs_FoxO3A_theta_barplot.png`
+- `compare_rr_wszystkie.csv`
+- `compare_rr_wzg_mutacji.csv`
+- `/notebooks/B1_lag_analysis_profiles_official.csv`
+- `/notebooks/B1_lag_analysis_summary_official.csv`
 
 ---
 
