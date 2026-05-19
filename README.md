@@ -93,7 +93,7 @@ notebooks/TaskB_IndependentResearch.ipynb
 
 ---
 
-## Outputs
+# Outputs
 
 From Multi-Mutation Spatiotemporal Comparison:
 - `mutations_barplot.png`
