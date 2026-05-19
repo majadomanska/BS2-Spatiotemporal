@@ -117,7 +117,6 @@ From  ERK vs. AKT Propagation Comparison:
 - `B1_concat_ERK_vs_AKT_comparison_table.csv` - All sites combined - input for stats and plots.
 - `B1_ERK_vs_FoxO3A_RR_barplot.png` - bar plot of mean $RR$ by mutation, ERK vs FoxO3A side by side.
 - `B1_ERK_vs_FoxO3A_theta_barplot.png` - bar plot of mean jump thresholds $(\theta)$ by mutation and biosensor.
-- `mutations_comparison_table.csv` - Per mutation × biosensor: mean RR, spread, Mann–Whitney p vs WT, Bonferroni flag.
 - `compare_rr_wszystkie.csv` - All sites pooled: one ERK vs FoxO3A RR comparison (Mann–Whitney). 
 - `compare_rr_wzg_mutacji.csv` - Per mutation: ERK vs FoxO3A RR — Mann–Whitney p and Bonferroni flag.
 - `/notebooks/B1_lag_analysis_profiles_official.csv` - RR at each time lag τ (0–30 frames) per mutation × biosensor.
