@@ -95,6 +95,8 @@ notebooks/TaskB_IndependentResearch.ipynb
 
 # Outputs
 
+Note: Files generated in the `analysis_outputs/` directory were omitted from the repository because of their large size. Only final processed outputs and summary results are included.
+
 #### From Multi-Mutation Spatiotemporal Comparison:
 - `mutations_barplot.png` -  Bar plot of mean relative risk by mutation (* = significant vs WT).
 - `mutations_comparison_table.csv` - Per mutation: mean RR, spread, Mann–Whitney p-value vs WT, Bonferroni significance flag.
@@ -123,6 +125,5 @@ notebooks/TaskB_IndependentResearch.ipynb
 - `/notebooks/B1_lag_analysis_summary_official.csv` - Best lag (τ*) and peak RR per mutation × biosensor.
 
 
-Note: Files generated in the `analysis_outputs/` directory were omitted from the repository because of their large size. Only final processed outputs and summary results are included.
 ---
 
