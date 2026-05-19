@@ -53,6 +53,8 @@ pip install -r requirements.txt
 
 Open the corresponding notebook in Jupyter Notebook and run all cells sequentially.
 
+**Before running the notebooks, make sure that the dataset files and metadata files are placed in the `data/` directory. The analyses expect all required input files to already exist in this location.
+**
 ## Task A1 — Mutation Comparison
 
 Notebook:
